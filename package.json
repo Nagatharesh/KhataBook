@@ -1,0 +1,11 @@
+{
+  "name": "business-ledger",
+  "version": "2.0.0",
+  "description": "Customer Balance Ledger — Phase 2 (mock data frontend)",
+  "scripts": {
+    "dev": "npx serve . -p 3000 --no-clipboard",
+    "test": "node src/tests/run_tests.js"
+  },
+  "keywords": ["khata", "ledger", "accounting"],
+  "author": "Owner"
+}
